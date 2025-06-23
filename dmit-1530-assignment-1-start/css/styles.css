@@ -2,6 +2,8 @@
     --blue-grey-50: #ECEFF1;
     --blue-grey-100: #CFD8DC;
     --blue-grey-200: #B0BEC5;
+    --blue-grey-400: #78909C;
+    --blue-grey-800: #37474F;
     --blue-grey-900: #263238;
 }
 
@@ -14,4 +16,31 @@ header, footer {
     background-color: var(--blue-grey-50);
     color: #fff;
     padding: 2rem 4rem;   
+}
+
+/* Typographical Styles */
+
+h2 {
+    font-size: 2.25rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+span {
+    font-size: 2.5rem;
+    line-height: 1.35;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+li {
+    font-size: 1rem;
+    line-height: 1.5;
 }
