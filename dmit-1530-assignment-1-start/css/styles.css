@@ -236,4 +236,41 @@ footer>section {
     margin-bottom: -2.5rem;
 }
 
+    /* Gallery */
+
+.gallery>section:nth-child(2) {
+    background: var(--blue-grey-50);
+    text-align: left;
+}
+
+.gallery>section div>img {
+    margin-bottom: 3rem;
+}
+
+figure {
+    margin-bottom: 3rem;
+}
+
+.gallery>section:nth-child(4) {
+    text-align: left;
+}
+
+.gallery>section:nth-child(4) h2 {
+    text-align: left;
+}
+
+.gallery>section:nth-child(5) {
+    background: var(--blue-grey-800);
+    color: white;
+}
+
+.gallery>section:nth-child(5) h2 {
+    text-align: left;
+}
+
+.gallery li {
+    text-align: left;
+}
+
+
 }
